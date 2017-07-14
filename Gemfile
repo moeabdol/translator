@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "redis", "~> 3.2"
 gem "sinatra", "~> 2.0.0"
 gem "haml", "~> 5.0.1"
+gem "devise", "~> 4.3.0"
